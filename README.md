@@ -14,5 +14,5 @@ This To-Do List has been updated to include a FastAPI RestAPI, alongside previou
 - `GET /tasks/{taskId}` - This retrieves a task by its ID.
 
 - `PUT /tasks/{taskId}` - This updates an existing task.
-- 
+
 - `DELETE /tasks/{taskId}` - This deletes a task by its ID.
